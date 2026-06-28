@@ -4,7 +4,6 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include <physical_layouts.dtsi>
 #include "redox.dtsi"
 
 &default_transform {
