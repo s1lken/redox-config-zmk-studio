@@ -15,7 +15,7 @@
 / {
     chosen {
         zmk,kscan = &kscan0;
-//        zmk,physical-layout = &redox_physical_layout;
+        zmk,physical-layout = &redox_physical_layout;
     };
 
     default_transform: keymap_transform_0 {
