@@ -1,6 +1,6 @@
 file_format: "1"
-id: redox
-name: Redox
+id: redox_studio
+name: Redox Studio
 type: shield
 url: https://github.com/mattdibi/redox-keyboard
 requires: [pro_micro]
@@ -8,5 +8,5 @@ features:
   - keys
   - underglow
 siblings:
-  - redox_left
-  - redox_right
+  - redox_studio_left
+  - redox_studio_right
